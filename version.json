@@ -1,0 +1,10 @@
+{
+     "latest_version_code": 1,
+     "latest_version_name": "1.0.0",
+     "apk_url": "",
+     "changelog": "",
+
+     "app_enabled": true,
+     "disabled_title": "Ứng dụng tạm ngừng hoạt động",
+     "disabled_message": "Ứng dụng hiện đang tạm ngừng hoạt động. Vui lòng quay lại sau."
+   }
