@@ -4,7 +4,7 @@
      "apk_url": "",
      "changelog": "",
 
-     "app_enabled":false,
+     "app_enabled":true,
      "disabled_title": "Ứng dụng tạm ngừng hoạt động",
      "disabled_message": "Ứng dụng hiện đang bảo trì. Vui lòng quay lại sau."
    }
